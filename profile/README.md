@@ -1,4 +1,4 @@
-![](orkes.png)
+![](https://github.com/orkes-io/.github/profile/orkes.png)
 ## Orkes Platform is a cloud hosted, fully managed version of Netflix Conductor offering full compatibility with the open source version.
 
 ## Visit our website at [orkes.io](https://orkes.io)
