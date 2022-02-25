@@ -1,8 +1,8 @@
-![Orkes Logo](https://orkes.io/content/img/orkes-logo-purple-2x.png#gh-light-mode-only)
-![Orkes Logo](https://orkes.io/content/img/orkes-logo-purple-inverted-2x.png#gh-dark-mode-only)
 
-![Termux Logo](https://orkes.io/content/img/orkes-logo-purple-2x.png#gh-dark-mode-only)
-![Termux Logo](https://orkes.io/content/img/orkes-logo-purple-inverted-2x.png#gh-light-mode-only)
+![orkes log0](https://user-images.githubusercontent.com/1514288/155636237-caa91ec9-e19f-4ab0-aa65-106e09b381b0.png#gh-light-mode-only)
+
+![orkes logo](https://user-images.githubusercontent.com/1514288/155636248-0b60f994-4b32-4b53-b061-6904c2e413ac.png#gh-dark-mode-only)
+
 
 ## Orkes Platform is a cloud hosted, fully managed version of Netflix Conductor offering full compatibility with the open source version.
 
