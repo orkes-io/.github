@@ -9,7 +9,7 @@
 ## Visit our website at [orkes.io](https://orkes.io)
 ## Read about Conductor in our [docs](https://orkes.io/content/)
 ## Download the [open source](https://github.com/Netflix/conductor)
-## Give Conductor a Star [![badge](https://img.shields.io/github/stars/netflix/conductor?style=social)](https://github.com/netflix/conductor)
+## Give Conductor a [![badge](https://img.shields.io/github/stars/netflix/conductor?style=social)](https://github.com/netflix/conductor)
 
 <!--
 
